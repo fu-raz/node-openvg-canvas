@@ -1,6 +1,6 @@
 {
   "name": "openvg-canvas",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "author": "Luis Reis <luis@luismreis.com> (http://luismreis.com/)",
   "description": "Canvas on node-openvg",
   "bin": {
@@ -21,7 +21,8 @@
     "bindings": "^1.2.1",
     "weak": "^1.0.1",
     "openvg": "ReneHollander/node-openvg",
-    "freeimage": "ReneHollander/node-freeimage"
+    "freeimage": "ReneHollander/node-freeimage",
+    "underscore": "^1.8.3"
   },
   "license": "MIT"
 }
