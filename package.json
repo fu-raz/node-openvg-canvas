@@ -1,6 +1,6 @@
 {
   "name": "openvg-canvas",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "author": "Luis Reis <luis@luismreis.com> (http://luismreis.com/)",
   "description": "Canvas on node-openvg",
   "bin": {
